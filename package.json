@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "howler": "^2.0.4",
     "pizzicato": "^0.6.1"
   },
   "devDependencies": {},
