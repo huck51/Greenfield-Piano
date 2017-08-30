@@ -1,0 +1,19 @@
+.blackKey {
+  background-color: black;
+  height: 250px;
+  margin: 1em 0;
+}
+.rig {
+  background-color: aquamarine;
+  height: 250px;
+}
+.whiteKey {
+  background-color: ivory;
+  height: 250px;
+  border: solid 1px black;
+  margin: 1em 0;
+}
+
+h1 {
+  text-align: center;
+}
